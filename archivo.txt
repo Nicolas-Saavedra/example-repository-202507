@@ -4,3 +4,7 @@ En mi segunda version, voy a añadir una nueva linea
 
 Este cambio esta en la rama numero 1
 Este es un cambio que se genero desde la segunda rama
+
+Este cambio en particular viene de una rama
+Este me gusto
+Este no me gusto
