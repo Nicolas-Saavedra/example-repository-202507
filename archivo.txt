@@ -7,4 +7,3 @@ Este es un cambio que se genero desde la segunda rama
 
 Este cambio en particular viene de una rama
 Este me gusto
-Este no me gusto
